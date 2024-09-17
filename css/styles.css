@@ -71,7 +71,8 @@ html{
 }
 
 body {
-	background-image: url('/assets/img/retina_wood.png');
+	background-image: url('/assets/img/wallpaper.png');
+	background-color: #229799;
 	font-family: "Bungee", verdana, sans-serif;
 }
 
